@@ -1,7 +1,7 @@
-package ModelElements;
+package Editor3d.ModelElements;
 
 
-import Staff.Type;
+import Editor3d.Staff.Type;
 
 import java.util.ArrayList;
 import java.util.List;

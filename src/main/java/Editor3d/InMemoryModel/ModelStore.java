@@ -1,8 +1,9 @@
-package InMemoryModel;
+package Editor3d.InMemoryModel;
 
-import ModelElements.*;
 
-import java.lang.reflect.Array;
+import Editor3d.ModelElements.*;
+
+
 import java.util.ArrayList;
 import java.util.List;
 

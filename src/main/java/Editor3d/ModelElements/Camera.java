@@ -1,7 +1,7 @@
-package ModelElements;
+package Editor3d.ModelElements;
 
-import Staff.Angle3D;
-import Staff.Point3D;
+import Editor3d.Staff.Angle3D;
+import Editor3d.Staff.Point3D;
 
 public class Camera {
     public Point3D location;
