@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Editor3d" target="20" />
+      <module name="Homework4" target="20" />
     </bytecodeTargetLevel>
   </component>
 </project>
